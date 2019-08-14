@@ -4,7 +4,9 @@ public class Employee {
 
 	private int id;
 	private String name;
+
 	private String city;
+	private String address;
 
 	public int getId() {
 		return id;
@@ -28,6 +30,13 @@ public class Employee {
 
 	public void setCity(String city) {
 		this.city = city;
+	}
+	public String getAddress() {
+		return address;
+	}
+
+	public void setAddress(String address) {
+		this.address = address;
 	}
 
 }
