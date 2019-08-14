@@ -7,6 +7,7 @@ public class Employee {
 
 	private String city;
 	private String address;
+	private int zipcode;
 
 	public int getId() {
 		return id;
