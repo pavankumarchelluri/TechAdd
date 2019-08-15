@@ -7,7 +7,7 @@ public class Employee {
 
 	private String city;
 	private String address;
-
+	//added zipcode
 	private int zipcode;
 	private String state;
 
