@@ -7,7 +7,10 @@ public class Employee {
 
 	private String city;
 	private String address;
+
 	//added zipcode
+
+	private String landmark;
 	private int zipcode;
 	private String state;
 
