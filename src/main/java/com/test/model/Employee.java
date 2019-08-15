@@ -8,9 +8,12 @@ public class Employee {
 	private String city;
 	private String address;
 
+<<<<<<< HEAD
 	//added zipcode
 
 	private String landmark;
+=======
+>>>>>>> parent of 570c4fb... added comment
 	private int zipcode;
 	private String state;
 
