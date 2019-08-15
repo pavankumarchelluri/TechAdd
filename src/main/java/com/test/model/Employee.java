@@ -7,6 +7,7 @@ public class Employee {
 
 	private String city;
 	private String address;
+	private String landmark;
 
 	private int zipcode;
 	private String state;
